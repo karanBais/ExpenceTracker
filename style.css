@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.edit{
+    padding: 5px;
+    margin: 5px;
+    border-radius: none;
+    background-color: lightblue;
+    font-size: 16px;
+}
+.delete{
+    padding: 5px;
+    margin: 5px;
+    border-radius: none;
+    background-color: lightblue;
+    font-size: 16px;
+}
